@@ -1,5 +1,3 @@
-NOTE: This is a duplicate of the ["Lean Data Instructions.docx"](https://github.com/mozilla/lean-data-practices/blob/master/Lean%20Data%20Instructions.docx) file in this same repository.
-
 #The LDP Process
 
 The goal of Lean Data Practices (LDP) is to help you increase user trust and lower your operational risk by making smart, consistent decisions about data. 
