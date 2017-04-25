@@ -4,9 +4,13 @@ The goal of Lean Data Practices (LDP) is to help you increase user trust and low
 
 * __Step 1: Assign someone to run point.__ There should be a single person responsible for decisions about data who will manage steps 2 and 3 below (we’ll call her your “Data Steward”).
 
-    1. In a small startup: Ideally, you would tap an engineer or someone who already knows a lot about what data your organization collects and why. This is unlikely to be her only role, but it should be an important part of her job.
+    1. ####In a small startup
 
-    1. Somewhere bigger: In this case you should consider establishing a role that is empowered to analyze and convene decisions about data across your organization (including engineering, marketing and other teams).
+        Ideally, you would tap an engineer or someone who already knows a lot about what data your organization collects and why. This is unlikely to be her only role, but it should be an important part of her job.
+
+    1. ####Somewhere bigger
+
+        In this case you should consider establishing a role that is empowered to analyze and convene decisions about data across your organization (including engineering, marketing and other teams).
 
 * __Step 2: Make sure your Data Steward knows your data. Understanding what user data you have and what you do with it is the next step to getting lean.__ Ask your Data Steward to think about the data they know and to interview people who make decisions about data using the [Lean Data Worksheet](https://github.com/mozilla/lean-data-practices/blob/master/Lean%20Data%20Worksheet.xlsx) as a guide. Remember to think about more than just your products and engineering — other functions (such as marketing, sales, etc.) sometimes collect and use user data.
 
