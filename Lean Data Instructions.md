@@ -4,11 +4,11 @@ The goal of Lean Data Practices (LDP) is to help you increase user trust and low
 
 * __Step 1: Assign someone to run point.__ There should be a single person responsible for decisions about data who will manage steps 2 and 3 below (we’ll call her your “Data Steward”).
 
-    1. ####In a small startup
+    1. #### In a small startup
 
         Ideally, you would tap an engineer or someone who already knows a lot about what data your organization collects and why. This is unlikely to be her only role, but it should be an important part of her job.
 
-    1. ####Somewhere bigger
+    1. #### Somewhere bigger
 
         In this case you should consider establishing a role that is empowered to analyze and convene decisions about data across your organization (including engineering, marketing and other teams).
 
