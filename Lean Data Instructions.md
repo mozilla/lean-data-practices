@@ -42,7 +42,9 @@ The goal of Lean Data Practices (LDP) is to help you increase user trust and low
 
            Depending on how you use the data and what it’s about, different levels of encryption may or may not be appropriate. The more sensitive the data, the more you should think about encrypting it while it’s being transferred and at rest.
 
-    1.	#### Engage your users: Explain your practices simply. Ask yourself:
+    1.	#### Engage your users: Explain your practices simply
+
+        Ask yourself:
 
         1.	##### Is the way I collect, use and disclose data clear to my users?
 
