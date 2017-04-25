@@ -12,7 +12,9 @@ The goal of Lean Data Practices (LDP) is to help you increase user trust and low
 
         In this case you should consider establishing a role that is empowered to analyze and convene decisions about data across your organization (including engineering, marketing and other teams).
 
-* __Step 2: Make sure your Data Steward knows your data. Understanding what user data you have and what you do with it is the next step to getting lean.__ Ask your Data Steward to think about the data they know and to interview people who make decisions about data using the [Lean Data Worksheet](https://github.com/mozilla/lean-data-practices/blob/master/Lean%20Data%20Worksheet.xlsx) as a guide. Remember to think about more than just your products and engineering — other functions (such as marketing, sales, etc.) sometimes collect and use user data.
+* __Step 2: Make sure your Data Steward knows your data. Understanding what user data you have and what you do with it is the next step to getting lean.__
+
+    Ask your Data Steward to think about the data they know and to interview people who make decisions about data using the [Lean Data Worksheet](https://github.com/mozilla/lean-data-practices/blob/master/Lean%20Data%20Worksheet.xlsx) as a guide. Remember to think about more than just your products and engineering — other functions (such as marketing, sales, etc.) sometimes collect and use user data.
 
 * __Step 3: Apply LDP.__ Based on the results of Step 2, get lean by making changes to your data practices.
 
