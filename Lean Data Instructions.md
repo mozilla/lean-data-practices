@@ -1,4 +1,4 @@
-#The LDP Process
+# The LDP Process
 
 The goal of Lean Data Practices (LDP) is to help you increase user trust and lower your operational risk by making smart, consistent decisions about data. 
 
