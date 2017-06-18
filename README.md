@@ -9,7 +9,6 @@ Use this toolkit to implement Lean Data Practices at your company, it includes a
 + Or check out our developer community [here](https://developer.mozilla.org/en-US)
 ---
 
-![Mozilla logo](https://www.mozilla.org/media/img/styleguide/identity/mozilla/wordmark.b9f1818e8d92.png)
 
 
 Made with love by the folks at [Mozilla](https://www.mozilla.org/) ❤️
