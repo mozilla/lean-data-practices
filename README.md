@@ -1,4 +1,4 @@
-![Mozilla logo](https://www.mozilla.org/media/img/pebbles/moz-wordmark-dark-reverse.2cbc28bb9895.svg = 300x)
+![Mozilla logo](https://www.mozilla.org/media/img/styleguide/identity/mozilla/wordmark.b9f1818e8d92.png)
 
 ## Hi there!
 
@@ -6,9 +6,9 @@ Staying lean and being smart about how you collect data can build trust with you
 
 Use this toolkit to implement Lean Data Practices at your company, it includes a worksheet as well as instructions on process to help you get lean.
 
-Also: 
+**Also:**
 + Head on over here for more on [Lean Data Practices](https://www.mozilla.org/en-US/about/policy/lean-data/).
-+ Or here for 
++ Or check out our developer community [here](https://developer.mozilla.org/en-US)
 ---
 
 Made with love by the folks at [Mozilla](https://www.mozilla.org/) ❤️
