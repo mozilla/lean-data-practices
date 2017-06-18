@@ -1,4 +1,4 @@
-![Mozilla logo](https://www.mozilla.org/media/img/pebbles/moz-wordmark-dark-reverse.2cbc28bb9895.svg)
+![Mozilla logo](https://www.mozilla.org/media/img/pebbles/moz-wordmark-dark-reverse.2cbc28bb9895.svg =300x)
 
 ## Hi there!
 
